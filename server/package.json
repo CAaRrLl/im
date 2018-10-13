@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "im server",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CAaRrLl/im.git"
+  },
+  "keywords": [
+    "koa",
+    "socket.io"
+  ],
+  "author": "CAaRrLl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CAaRrLl/im/issues"
+  },
+  "homepage": "https://github.com/CAaRrLl/im#readme",
+  "dependencies": {
+    "koa": "^2.5.3",
+    "socket.io": "^2.1.1"
+  }
+}
